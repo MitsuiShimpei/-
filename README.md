@@ -1,5 +1,4 @@
 # ジャンケン予測問題
-ジャンケン予測問題（Rock-Paper-Scissors_Prediction）
 いずれのファイルも4つの特徴量，教師データあり3クラス分類を行う．
 
 「4Feature_BPTT」は Backpropagation Through Time を用いて学習モデルを構築する．
