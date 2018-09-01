@@ -1,5 +1,5 @@
 # ジャンケン予測問題
-いずれのファイルも4つの特徴量，教師データあり3クラス分類を行う．
+いずれのファイルも4つの特徴量で3クラス分類を行う教師あり学習である．
 
 「4Feature_BPTT」は Backpropagation Through Time を用いて学習モデルを構築する．
 「4Feature_LSTM」は Long Short _ Term Memory を用いて学習モデルを構築する．
